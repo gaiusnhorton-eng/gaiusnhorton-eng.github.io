@@ -1,5 +1,4 @@
 body {
-	background-color: rgb(0,0,153);
 	color: white;
 	text-align:center
 }
@@ -59,6 +58,7 @@ ol{
 body {
   background-image: src=./"sky.png";
 }
+
 
 
 

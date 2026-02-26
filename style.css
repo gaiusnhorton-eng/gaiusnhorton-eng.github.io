@@ -48,13 +48,14 @@ ol{
 }
 
 .masthead__menu-list li a.active {
-  float: right;
+  float: center;
 }
 
 .active {
   background-color: #4CAF50;
 }
  
+
 
 
 

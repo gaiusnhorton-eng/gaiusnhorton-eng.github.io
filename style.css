@@ -56,6 +56,9 @@ ol{
   background-color: #4CAF50;
 }
  h1 {text-align: center;}
+body {
+  background-image: url('sky.png.jpg');
+}
 
 
 

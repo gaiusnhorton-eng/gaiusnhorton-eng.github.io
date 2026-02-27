@@ -15,23 +15,28 @@ a:visited {
 }
 
 h2{
-	color:red
+	color: red
 }
 ul{
-	text-align:center
-	list-style-position: inside;
+	text-align:center;
+	list-style-position: inside
 }
 ul:li{
-	text-align:center}
+	text-align: center;
+ list-style-position: inside}
+
 ol{
-	text-align:center
+	text-align: center;
+	 list-style-position: inside
 }
+
 ol:li{
-	text-align:center}
+	text-align: center;
+ list-style-position: inside}
 
 .masthead__menu-list  {
   list-style-type: none;
-	position: absolute;
+	position: center;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -39,11 +44,11 @@ ol:li{
 }
 
 .masthead__menu-list li {
-   float: none;
+   float: left;
 }
 
 .masthead__menu-list li a {
-  display: block;
+  display: flex;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -62,6 +67,7 @@ ol:li{
   background-color: #4CAF50;
 }
  h1 {text-align: center;}
+
 
 
 

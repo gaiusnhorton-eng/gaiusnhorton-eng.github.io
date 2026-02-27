@@ -28,16 +28,18 @@ ol{
 }
 ol:li{
 	text-align:center}
+
 .masthead__menu-list  {
   list-style-type: none;
+	position: absolute;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #000066 ;
 }
 
 .masthead__menu-list li {
-   float: center;
+   float: none;
 }
 
 .masthead__menu-list li a {
@@ -60,6 +62,7 @@ ol:li{
   background-color: #4CAF50;
 }
  h1 {text-align: center;}
+
 
 
 

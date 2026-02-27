@@ -34,7 +34,7 @@ ol{
 }
 
 .masthead__menu-list li {
-   float: left;
+   float: center;
 }
 
 .masthead__menu-list li a {
@@ -57,6 +57,7 @@ ol{
   background-color: #4CAF50;
 }
  h1 {text-align: center;}
+
 
 
 

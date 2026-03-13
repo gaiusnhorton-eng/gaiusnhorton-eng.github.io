@@ -71,7 +71,7 @@ ol:li{
 .fixed-image{
 position: fixed;
 	left: 10px;
-	bottom: 30px
+	bottom: 80px
 }
 
 .absolute-image{
@@ -79,6 +79,7 @@ position: absolute;
 	right: 10px;
 	top: 70px
 }
+
 
 
 

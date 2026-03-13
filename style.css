@@ -68,7 +68,17 @@ ol:li{
 }
  h1 {text-align: center;}
 
+.fixed-image{
+position: fixed;
+	left: 10px;
+	bottom: 30px
+}
 
+.absolute-image{
+position: absolute;
+	right: 10px;
+	top: 40px
+}
 
 
 
